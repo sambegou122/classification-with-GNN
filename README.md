@@ -3,7 +3,7 @@
 Ce projet vise à repliquer les resulats d'un papier scientifique Open Graph Benchmark:
 Datasets for Machine Learning on Graphs https://arxiv.org/pdf/2005.00687.pdf
 
-Partie 1:
+## Partie 1:
 
 Le but est d'appliquer plusieurs modèles de GNN sur les jeux de données issus de https://ogb.stanford.edu. 
 Pour cela, je me suis aider de l'article décrivant les jeux de données et les codes associés https://arxiv.org/pdf/2005.00687.pdf .
@@ -12,7 +12,7 @@ Les notebooks seront structurés et comprenent les codes des expérimentations, 
 
 Mon objectif est de me familiariser avec les GNN (en général) et comprendre les procédures d'évaluation.
 
-Partie 2:
+## Partie 2:
 
 J'ai fais la Même chose en prenant au choix un jeu de données de classification de texte de IMBD (rewiews de films), construire un graphe, préparer des données et appliquer une méthode de GNN.
 
